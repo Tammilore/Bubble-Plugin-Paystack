@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "payment"
+    },
+    "description": "Accept payments from your users with Paystack. Initialize and verify transactions, create subaccounts, payment links, subscriptions and plans for you users etc.\n\nOn this free version you can:\n- Initialize a transaction\n- Verify a transaction\n- Create a payment plan\n\nMore functionalities will be added soon. If you need help, email tammilore@gmail.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1662293765256x947649311846452900/uph74pwwijksr7hybwzj.webp",
+    "license": "open_source",
+    "link": "https://paystack.com/",
+    "name": "Paystack ",
+    "plugin_instructions": "Create an account on Paystack. You'll be given API keys for testing and live API keys.\n\nUse your test keys to simulate and test payment. When you're ready to go live, replace the test key with the live key.\n\nN.B: Make sure to include the word Bearer and then a space before adding your API key"
+}
